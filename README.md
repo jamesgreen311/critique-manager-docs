@@ -1,0 +1,1 @@
+# critique-manager-docs
