@@ -1,2 +1,2 @@
 ## Summary
-The Critique Manager is a mobile friendly web application. It provides an easy to use form to allow members to sign up for a monthly MRAA member critique. This document will explain how to set up the web app for each months critique.
+The Critique Manager is a mobile friendly web application built on the Google App Script platform with a Google Sheet data store. It provides an easy to use form to allow members to sign up for a monthly MRAA member critique. This document will explain how to set up the web app for each months critique.

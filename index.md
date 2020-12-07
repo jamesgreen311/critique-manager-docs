@@ -1,4 +1,5 @@
 ---
+title: Home
 layout: home
 ---
 
@@ -6,3 +7,4 @@ layout: home
 # MRAA Critique Manager
 
 {% include_relative /summary.md %}
+{% include_relative /about.md %}
