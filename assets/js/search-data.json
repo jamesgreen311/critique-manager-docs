@@ -1,0 +1,68 @@
+{"0": {
+    "doc": "Art Work Uploads",
+    "title": "Art Work Uploads",
+    "content": " ",
+    "url": "https://jamesgreen311.github.io/critique-manager-docs/art-work-uploads/",
+    "relUrl": "/art-work-uploads/"
+  },"1": {
+    "doc": "Create a New Critique Session",
+    "title": "Create a New Critique Session",
+    "content": "Creating a new session for a month is currently a manual process. Each month’s attendance roster is a new sheet in the Critique Sign Up Sheet (Responses) spreadsheet. To start a new session it’s a matter of duplicating an existing month’s sheet and renaming it to the new session month and year. Any data from the previous month should be removed, but only the registered users data. The sheet also contains two pivot tables and they shouldn’t be deleted. Registered user data is in columns A - M at the time of this writing. ",
+    "url": "https://jamesgreen311.github.io/critique-manager-docs/create-new-session/",
+    "relUrl": "/create-new-session/"
+  },"2": {
+    "doc": "Create a New Critique Session",
+    "title": "Config",
+    "content": "The Config tab contains the setup information for the month’s critque. Set the Dates . Change the Critique Start date to the date and time for the session. Change the Critique End date to match the Critique Start date. By default the duration should already be at two hours, so the end time should already be set correctly. Date Formats . All date formatting is done using the Google Sheets date format options. To have a date and or time display on the form in the format you wish, you would modify the date using the Format &gt; Number options. These shouldn’t need to change unless you want them displayed differently on the form. See Dates for details on formatting dates . Active Seat Limit . ",
+    "url": "https://jamesgreen311.github.io/critique-manager-docs/create-new-session/#config",
+    "relUrl": "/create-new-session/#config"
+  },"3": {
+    "doc": "Dates",
+    "title": "Dates",
+    "content": "The Critique Manager has two dates but they are displayed in multiple formats on the form. The Start date and time of the monthly session, the end time of the session and the Deadline date. ",
+    "url": "https://jamesgreen311.github.io/critique-manager-docs/dates/",
+    "relUrl": "/dates/"
+  },"4": {
+    "doc": "Dates",
+    "title": "Format ",
+    "content": "All dates can be displayed in any valid date format supported by Google Sheets. To set the display format for any of the dates, select the date cell, and then click the Format &gt; Number menu options. Previously used date formats will appear at the bottom of the menu list. If the format you are looking for does not appear in this list, select the More Formats &gt; More date and time formats option. The default options can be changed, removed or placed in a different order. Clicking the drop down arrow (1) will display more options to select from. Click the Apply button when you have the format you want. ",
+    "url": "https://jamesgreen311.github.io/critique-manager-docs/dates/#format-",
+    "relUrl": "/dates/#format-"
+  },"5": {
+    "doc": "Home",
+    "title": "Web App Document",
+    "content": " ",
+    "url": "https://jamesgreen311.github.io/critique-manager-docs/#web-app-document",
+    "relUrl": "/#web-app-document"
+  },"6": {
+    "doc": "Home",
+    "title": "MRAA Critique Manager",
+    "content": " ",
+    "url": "https://jamesgreen311.github.io/critique-manager-docs/#mraa-critique-manager",
+    "relUrl": "/#mraa-critique-manager"
+  },"7": {
+    "doc": "Home",
+    "title": "Summary",
+    "content": "The Critique Manager is a mobile friendly web application built on the Google App Script platform with a Google Sheet data store. It provides an easy to use form to allow members to sign up for a monthly MRAA member critique. This document will explain how to set up the web app for each months critique. ",
+    "url": "https://jamesgreen311.github.io/critique-manager-docs/#summary",
+    "relUrl": "/#summary"
+  },"8": {
+    "doc": "Home",
+    "title": "About Critique Sessions",
+    "content": " ",
+    "url": "https://jamesgreen311.github.io/critique-manager-docs/#about-critique-sessions",
+    "relUrl": "/#about-critique-sessions"
+  },"9": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "https://jamesgreen311.github.io/critique-manager-docs/",
+    "relUrl": "/"
+  },"10": {
+    "doc": "Understanding the Spreadsheet",
+    "title": "Understanding the Spreadsheet",
+    "content": " ",
+    "url": "https://jamesgreen311.github.io/critique-manager-docs/understanding-the-spreadsheet/",
+    "relUrl": "/understanding-the-spreadsheet/"
+  }
+}
